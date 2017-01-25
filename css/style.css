@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+  margin: auto;
+  background-image: url(http://media.istockphoto.com/vectors/seamless-pattern-with-balls-of-yarn-background-in-cartoon-style-vector-id469635248);
+  color: white;
+}
+
+section {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  border: solid green;
+  border-radius:10px;
+  background-color: grey;
+}
+
+.mainheader {
+  text-align: center;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+.info {
+  color: pink;
+}
+
+.qualities {
+  color: orange;
+}
+
+.perfect-date {
+  color: blue;
+}
+
+img {
+  border: 8px solid purple;
+  border-radius: 3px;
+  max-width: 3000px;
+  max-height: 3000px;
+  padding: 0 0 0 0px;
+  margin: 0 auto;
+  display: block;
+}
+
+ul {
+  list-style-type: circle;
+  text-align: left;
+}
+
+.redflags:hover {
+  color: red;
+}
